@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Stock Analysis DSS - Main Entry Point
+analyse - Main Entry Point
 """
 
 import sys
@@ -36,7 +36,7 @@ def print_banner():
     """Print application banner"""
     banner = """
     ╔══════════════════════════════════════════════════════════╗
-    ║      Stock Analysis Decision Support System (DSS)        ║
+    ║      analyse (DSS)        ║
     ║                    Version 0.1.0                         ║
     ╚══════════════════════════════════════════════════════════╝
     """
@@ -166,7 +166,7 @@ def info_command(args):
     print("="*60)
     
     # Project info
-    print(f"\n🏠 Project: Stock Analysis DSS")
+    print(f"\n🏠 Project: analyse")
     print(f"   Version: 0.1.0")
     print(f"   Path: {project_root}")
     
@@ -210,7 +210,7 @@ def main():
     """Main entry point"""
     # Set up argument parser
     parser = argparse.ArgumentParser(
-        description="Stock Analysis Decision Support System",
+        description="analyse",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:

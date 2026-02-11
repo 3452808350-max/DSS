@@ -1,4 +1,4 @@
-# Stock Analysis DSS - Implementation Tasks
+# analyse - Implementation Tasks
 
 ## 📋 Project Management
 

@@ -1,5 +1,5 @@
 """
-Configuration settings for Stock Analysis DSS
+Configuration settings for analyse
 """
 
 import os

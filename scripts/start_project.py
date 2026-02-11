@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Stock Analysis DSS - Project Starter Script
+analyse - Project Starter Script
 Initializes the project and tests basic functionality
 """
 

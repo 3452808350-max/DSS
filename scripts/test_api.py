@@ -183,7 +183,7 @@ def recommendations(success_count, total_count):
 
 def main():
     """Main function"""
-    print("Stock Analysis DSS - API Test")
+    print("analyse - API Test")
     print("="*60)
     
     try:

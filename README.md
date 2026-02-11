@@ -1,4 +1,4 @@
-# Stock Analysis Decision Support System (DSS)
+# analyse - Stock Analysis System (DSS)
 
 ## 📊 Project Overview
 
